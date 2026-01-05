@@ -5,3 +5,4 @@
 3. SKU values are globally unique across the platform.
 4. Products can exist in multiple warehouses with separate inventory records.
 5. Only authorized users can create or update products and inventory.
+6.MongoDB is used, but schema is written in a relational-style format for clarity.
